@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspace/Primeiro Programa/Primeiro Programa.csproj",
+      "projectUniqueName": "/home/adler/Documentos/workspace/Primeiro Programa/Primeiro Programa.csproj",
       "projectName": "Primeiro Programa",
-      "projectPath": "/workspace/Primeiro Programa/Primeiro Programa.csproj",
+      "projectPath": "/home/adler/Documentos/workspace/Primeiro Programa/Primeiro Programa.csproj",
       "packagesPath": "/home/adler/.nuget/packages/",
-      "outputPath": "/workspace/Primeiro Programa/obj/",
+      "outputPath": "/home/adler/Documentos/workspace/Primeiro Programa/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/adler/.nuget/NuGet/NuGet.Config"
